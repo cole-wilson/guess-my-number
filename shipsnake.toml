@@ -1,0 +1,24 @@
+name = "Guess My Number"
+short_name = "guess-my-number"
+author = "Cole Wilson"
+email = "cole@colewilson.xyz"
+short_description = "A guess my number game."
+description = ""
+url = ""
+license = ""
+keywords = ""
+data_files = [ "",]
+file = "main.py"
+modules = [ "",]
+bundle_id = "com.colewilson.guess-my-number"
+homebrew = false
+icon = "False"
+latest_build = "0.0.2"
+
+[build]
+homebrew = true
+type = "1"
+mac = true
+windows = false
+installer = true
+actions = true

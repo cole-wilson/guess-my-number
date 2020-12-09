@@ -19,7 +19,7 @@ except:
 
 setuptools.setup(
     name="guess-my-number",
-    version="0.0.2",
+    version="0.0.3",
 		scripts=['bin/guess-my-number'],
 #		entry_points={
 #			'console_scripts': ['guess-my-number=guess-my-number.__main__'],

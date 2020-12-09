@@ -13,7 +13,7 @@ modules = [ "",]
 bundle_id = "com.colewilson.guess-my-number"
 homebrew = false
 icon = "False"
-latest_build = "0.0.2"
+latest_build = "0.0.3"
 
 [build]
 homebrew = true
@@ -22,3 +22,5 @@ mac = true
 windows = false
 installer = true
 actions = true
+github = "cole-wilson/guess-my-number"
+bundle_id = "com.colewilson.guess-my-number"
